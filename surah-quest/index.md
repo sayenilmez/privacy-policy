@@ -29,7 +29,7 @@ Uygulama şunları yapmaz:
 Uygulama, kimlik doğrulama ve veri saklama için Google Firebase altyapısını kullanır. Firebase'in kendi gizlilik politikası için: https://firebase.google.com/support/privacy
 
 #### 5. Veri Saklama ve Silme
-Hesabınızı ve ilgili verilerinizi silmek isterseniz `kervenstudio.help@gmail.com` adresinden bize ulaşabilirsiniz.
+Hesabınızı ve ilgili verilerinizi silmek isterseniz `sakiryenilmez@gmail.com` adresinden bize ulaşabilirsiniz.
 
 #### 6. Çocukların Gizliliği
 Uygulama genel bir kitleye (aileler dahil) yöneliktir. Bilerek 13 yaşın altındaki çocuklardan hesap oluşturma yoluyla kişisel veri toplamayı hedeflemiyoruz. Çocuğunuzun bize bilgi verdiğini düşünüyorsanız lütfen bizimle iletişime geçin, verileri sileriz.
@@ -62,7 +62,7 @@ The Application does NOT:
 The Application uses Google Firebase infrastructure for authentication and data storage. For Firebase's privacy policy: https://firebase.google.com/support/privacy
 
 #### 5. Data Retention and Deletion
-If you wish to delete your account and associated data, you can contact us at `kervenstudio.help@gmail.com`.
+If you wish to delete your account and associated data, you can contact us at `sakiryenilmez@gmail.com`.
 
 #### 6. Children's Privacy
 The Application is intended for a general audience (including families). We do not knowingly collect personal data from children under 13 through account creation. If you believe your child has provided us with personal data, please contact us so we can delete it.
