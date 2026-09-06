@@ -41,8 +41,9 @@ If you turn on reminder notifications, they are scheduled and shown entirely on 
 
 
 05 Ads & analytics
-Not active right now
-The app currently shows no ads and collects no usage analytics. If that changes in the future, this page will be updated to clearly state what data would be used and for what purpose.
+The app shows no ads.
+We use Firebase Crashlytics to monitor app stability — when a crash occurs, it collects technical details like device model, OS version, and the code location of the error.
+This data is not used to identify you personally.
 
 
 06 Third parties
@@ -111,8 +112,9 @@ Hesaplı kullanıcılar için ilerleme verisi Google Cloud Firestore'da, hesabı
 
 
 05 Reklam ve analitik
-Şu an aktif değil
-Uygulama şu anda reklam göstermiyor ve kullanım analitiği toplamıyor. İleride reklam eklenirse, bu sayfa güncellenecek ve hangi verilerin bu amaçla kullanılacağı burada açıkça belirtilecektir.
+Şu an Uygulama reklam göstermiyor.
+Uygulamanın kararlılığını izlemek için Firebase Crashlytics kullanıyoruz — bir çökme yaşandığında cihaz modeli, işletim sistemi sürümü ve hatanın oluştuğu kod konumu gibi teknik bilgileri toplar.
+Bu veriler kimliğinizi belirlemek için kullanılmaz.
 
 
 06 Üçüncü taraflar
