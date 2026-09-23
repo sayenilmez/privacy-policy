@@ -36,4 +36,4 @@ If we change this policy we will update the date above. Continued use of the App
 11. Contact
 Questions about this policy: yenilmez.apps@gmail.com
 
-Impressum (legal notice, Germany)
+[Impressum (legal notice, Germany)](impressum/)
