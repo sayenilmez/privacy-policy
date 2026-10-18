@@ -1,5 +1,5 @@
 Privacy Policy
-Last updated: September 4, 2026
+Last updated: October 18, 2026
 
 ###English
 
@@ -12,7 +12,7 @@ Contents
 04 Notifications
 05 Ads & analytics
 06 Third parties
-07 Deleting your data
+07 Deleting your account and data
 08 Children's privacy
 09 Security
 10 Changes
@@ -50,8 +50,10 @@ This data is not used to identify you personally.
 Your data is processed only by Google Firebase (Authentication and Cloud Firestore), which provides the app's backend infrastructure. We do not sell your data or share it with third parties for marketing.
 
 
-07 Deleting your data
-To delete your account and all associated data, email us from your registered address at yenilmez.apps@gmail.com. We'll process your request within a reasonable time.
+07 Deleting your account and data
+You can delete your account and all associated data yourself, directly in the app: open the Profile tab, tap "Delete account", and confirm with your password. This permanently deletes your account (your email address) and the progress backed up to our cloud database, and it cannot be undone. Data from guest mode is stored only on your device and is removed when you uninstall the app.
+
+If you cannot access the app, you can also email us from your registered address at yenilmez.apps@gmail.com and we will delete your account and associated data within a reasonable time.
 
 
 08 Children's privacy
@@ -73,7 +75,7 @@ Surah Quest — a Quran surah and dua memorization app.
 ###Türkce
 
 Gizlilik Politikası
-Son güncelleme: 4 Eylül 2026
+Son güncelleme: 18 Ekim 2026
 
 Surah Quest, Kur'an sure ve dualarını ezberlemenize yardımcı olan bir uygulamadır. Bu sayfa, uygulamayı kullanırken hangi verilerin toplandığını, nasıl saklandığını ve neden gerekli olduğunu açık bir dille anlatır.
 
@@ -84,7 +86,7 @@ Surah Quest, Kur'an sure ve dualarını ezberlemenize yardımcı olan bir uygula
 04 Bildirimler
 05 Reklam ve analitik
 06 Üçüncü taraflar
-07 Verilerinizin silinmesi
+07 Hesabınızın ve verilerinizin silinmesi
 08 Çocukların gizliliği
 09 Güvenlik
 10 Değişiklikler
@@ -121,8 +123,10 @@ Bu veriler kimliğinizi belirlemek için kullanılmaz.
 Verileriniz yalnızca uygulamanın altyapısını sağlayan Google Firebase (Authentication ve Cloud Firestore) tarafından, bu hizmetleri sunmak amacıyla işlenir. Verilerinizi satmıyoruz veya pazarlama amacıyla üçüncü taraflarla paylaşmıyoruz.
 
 
-07 Verilerinizin silinmesi
-Hesabınızı ve ilişkili tüm verileri silmemizi istiyorsanız, kayıtlı e-posta adresinizden yenilmez.apps@gmail.com adresine yazmanız yeterli. Talebiniz makul bir süre içinde işleme alınır.
+07 Hesabınızın ve verilerinizin silinmesi
+Hesabınızı ve ilişkili tüm verileri doğrudan uygulamanın içinden kendiniz silebilirsiniz: Profil sekmesini açın, "Hesabı sil" düğmesine dokunun ve şifrenizle onaylayın. Bu işlem hesabınızı (e-posta adresinizi) ve bulut veritabanımızda yedeklenen ilerleme verilerinizi kalıcı olarak siler ve geri alınamaz. Misafir modundaki veriler yalnızca cihazınızda saklanır ve uygulamayı sildiğinizde kaldırılır.
+
+Uygulamaya erişemiyorsanız, kayıtlı e-posta adresinizden yenilmez.apps@gmail.com adresine de yazabilirsiniz; hesabınızı ve ilişkili verileri makul bir süre içinde sileriz.
 
 
 08 Çocukların gizliliği
